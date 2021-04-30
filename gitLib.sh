@@ -7,4 +7,4 @@ clonaRepo(){
 }
 
 #main code
-#clonaRepo "$1" "$2" "$3"
+clonaRepo "$1" "$2" "$3"
